@@ -1,0 +1,61 @@
+.wrap{
+    width: 460px;
+}
+
+.logo{
+    margin: 0 auto 10px;
+    float: none;
+}
+
+.menu{
+    margin: 0 auto;
+    float: none;
+    width: 413px;
+    height: 21px;
+}
+
+.header{
+    height: 95px;
+}
+
+.video{
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    top: -303px;
+}
+
+.entry{
+    margin: 0 auto;
+    float: none;
+    position: relative;
+    top: 246px;
+    width: 460px;
+}
+
+.post{
+    height: 561px;
+    background-size: cover;
+}
+
+.section{
+    float: none;
+    margin: 0 auto 43px;
+}
+
+.pro_section{
+    height: 609px;
+}
+
+.copy{
+    display: none;
+}
+
+.social__wrap{
+    margin: 21px auto;
+    float: none;
+}
+
+.menu__item.selected:after{
+    display: none;
+}
